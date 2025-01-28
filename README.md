@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/thatikindivenu/learning/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thatikindivenu/learning/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thatikindivenu/learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/thatikindivenu/learning/tree/master/0027-remove-element) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/thatikindivenu/learning/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thatikindivenu/learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thatikindivenu/learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/thatikindivenu/learning/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
