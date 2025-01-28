@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thatikindivenu/learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thatikindivenu/learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thatikindivenu/learning/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/thatikindivenu/learning/tree/master/0016-3sum-closest) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/thatikindivenu/learning/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/thatikindivenu/learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thatikindivenu/learning/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/thatikindivenu/learning/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thatikindivenu/learning/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/thatikindivenu/learning/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
