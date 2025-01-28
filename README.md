@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thatikindivenu/learning/tree/master/0005-longest-palindromic-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thatikindivenu/learning/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thatikindivenu/learning/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/thatikindivenu/learning/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/thatikindivenu/learning/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
