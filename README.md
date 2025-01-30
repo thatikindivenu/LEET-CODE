@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/thatikindivenu/learning/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thatikindivenu/learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thatikindivenu/learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/thatikindivenu/learning/tree/master/0035-search-insert-position) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thatikindivenu/learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thatikindivenu/learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thatikindivenu/learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/thatikindivenu/learning/tree/master/0035-search-insert-position) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
