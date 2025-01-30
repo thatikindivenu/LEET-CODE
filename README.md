@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/thatikindivenu/learning/tree/master/0043-multiply-strings) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thatikindivenu/learning/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thatikindivenu/learning/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/thatikindivenu/learning/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/thatikindivenu/learning/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/thatikindivenu/learning/tree/master/0043-multiply-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thatikindivenu/learning/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/thatikindivenu/learning/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thatikindivenu/learning/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thatikindivenu/learning/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/thatikindivenu/learning/tree/master/0043-multiply-strings) |
 | [2155-find-missing-observations](https://github.com/thatikindivenu/learning/tree/master/2155-find-missing-observations) |
 ## Divide and Conquer
 |  |
