@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/thatikindivenu/learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thatikindivenu/learning/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/thatikindivenu/learning/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/thatikindivenu/learning/tree/master/0042-trapping-rain-water) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/thatikindivenu/learning/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thatikindivenu/learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/thatikindivenu/learning/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/thatikindivenu/learning/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/thatikindivenu/learning/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/thatikindivenu/learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thatikindivenu/learning/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thatikindivenu/learning/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/thatikindivenu/learning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thatikindivenu/learning/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thatikindivenu/learning/tree/master/0042-trapping-rain-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thatikindivenu/learning/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thatikindivenu/learning/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
