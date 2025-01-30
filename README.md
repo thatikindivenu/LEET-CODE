@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thatikindivenu/learning/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/thatikindivenu/learning/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thatikindivenu/learning/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/thatikindivenu/learning/tree/master/0039-combination-sum) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thatikindivenu/learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thatikindivenu/learning/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/thatikindivenu/learning/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/thatikindivenu/learning/tree/master/0039-combination-sum) |
 ## Linked List
 |  |
 | ------- |
