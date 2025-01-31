@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/thatikindivenu/learning/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/thatikindivenu/learning/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thatikindivenu/learning/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/thatikindivenu/learning/tree/master/0048-rotate-image) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/thatikindivenu/learning/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thatikindivenu/learning/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/thatikindivenu/learning/tree/master/0048-rotate-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/thatikindivenu/learning/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thatikindivenu/learning/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thatikindivenu/learning/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/thatikindivenu/learning/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/thatikindivenu/learning/tree/master/0048-rotate-image) |
 | [2155-find-missing-observations](https://github.com/thatikindivenu/learning/tree/master/2155-find-missing-observations) |
 ## Divide and Conquer
 |  |
