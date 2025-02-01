@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/thatikindivenu/learning/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thatikindivenu/learning/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thatikindivenu/learning/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/thatikindivenu/learning/tree/master/0055-jump-game) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/thatikindivenu/learning/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/thatikindivenu/learning/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thatikindivenu/learning/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/thatikindivenu/learning/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/thatikindivenu/learning/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/thatikindivenu/learning/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/thatikindivenu/learning/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/thatikindivenu/learning/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
