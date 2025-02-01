@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thatikindivenu/learning/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thatikindivenu/learning/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/thatikindivenu/learning/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/thatikindivenu/learning/tree/master/0057-insert-interval) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
