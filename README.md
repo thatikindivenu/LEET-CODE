@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thatikindivenu/learning/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thatikindivenu/learning/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thatikindivenu/learning/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/thatikindivenu/learning/tree/master/0056-merge-intervals) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/thatikindivenu/learning/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thatikindivenu/learning/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/thatikindivenu/learning/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/thatikindivenu/learning/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
