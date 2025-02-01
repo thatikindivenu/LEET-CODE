@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/thatikindivenu/learning/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/thatikindivenu/learning/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thatikindivenu/learning/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/thatikindivenu/learning/tree/master/0051-n-queens) |
 | [0906-walking-robot-simulation](https://github.com/thatikindivenu/learning/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/thatikindivenu/learning/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thatikindivenu/learning/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/thatikindivenu/learning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thatikindivenu/learning/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thatikindivenu/learning/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/thatikindivenu/learning/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
